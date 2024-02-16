@@ -3,9 +3,13 @@ In this project, I recreated a simplified version of an  Newspaper Tailwind Foot
 
 Reflections
 Areas of Mastery:Don't have mastery in Tailwind.
+
 Tailwind Layout Techniques: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
+
 Responsive Design: I successfully implemented media queries to ensure the page looks good on both desktop and mobile screens.
+
 Styling Elements: I was able to style the Newsletter Footer, technology information, and quick link section effectively, closely resembling an Tailwind footer.
+
 Challenges Faced :Interpreting the Tailwind modules and applying the concept on the HTML.
 Responsive Design for Smaller Screens: Adjusting layouts and font sizes for smaller screens was challenging. I had to experiment with different approaches to ensure the design remained consistent and functional.
 Hover and Focus Effects: Implementing interactive elements like hover and focus effects required more practice and research to get them right.
